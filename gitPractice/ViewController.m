@@ -17,6 +17,14 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    _flag.text = @"🇺🇸";
+    _flag1.text = @"🇦🇺";
+    _flag2.text = @"🇨🇦";
+    
+}
+
+- (IBAction)calculate:(id)sender {
+    
 }
 
 - (void)didReceiveMemoryWarning {
