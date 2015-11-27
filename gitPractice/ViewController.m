@@ -20,7 +20,7 @@
     _flag.text = @"🇺🇸";
     _flag1.text = @"🇦🇺";
     _flag2.text = @"🇨🇦";
-    
+      
 }
 
 - (IBAction)calculate:(id)sender {
